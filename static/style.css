@@ -1,0 +1,23 @@
+body {
+    background-color: #212529;
+    color: white;
+    font-size: 1em;
+    margin-block: 1em;
+}
+
+button {
+    border: none;
+    padding: 1em 1em;
+    text-align: center;
+    margin-block: 0.2em;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    background-color: #384557;
+    color: white;
+    font-size: 1em;
+}
+
+button:hover {
+    background-color: #435268;
+}
